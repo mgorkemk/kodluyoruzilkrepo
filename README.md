@@ -18,3 +18,4 @@
 
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lufen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 
+ [Proje Gorseli](https://raw.githubusercontent.com/yigitcftcgl/kodluyoruzilkrepo/main/markdown.png)
